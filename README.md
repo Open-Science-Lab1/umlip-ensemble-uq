@@ -60,3 +60,12 @@ outputs needed to trace the numerical results reported in the manuscript.
 
 Upstream datasets, software packages, and pretrained model checkpoints remain
 subject to the licenses and terms of their respective providers.
+
+## Reproducibility archive
+
+The frozen processed data and reproducibility artifacts supporting this
+repository are publicly archived on Zenodo.
+
+**DOI:** `10.5281/zenodo.22019727`
+
+**Zenodo:** https://doi.org/10.5281/zenodo.22019727
